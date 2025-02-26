@@ -23,4 +23,5 @@ The takeaway? Performance isn't just about numbers – it’s about the story th
 
 Looking forward to continuing this journey of data exploration and optimizing mobile sales performance! 🚀
 
+
 #SalesPerformance #DataAnalysis #SalesInsights #BusinessIntelligence #MobileSales #DataDriven #PerformanceManagement #TargetVsActual #SalesStrategy #DataVisualization
